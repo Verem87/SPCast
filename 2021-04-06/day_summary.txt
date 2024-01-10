@@ -1,0 +1,3 @@
+Total produced power: 137313kW
+Total predicted power: 104635kW
+Day inaccuracy: 23%
